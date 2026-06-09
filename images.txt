@@ -1,2 +1,1 @@
-alpine
-busybox
+node:18-alpine
