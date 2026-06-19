@@ -1,7 +1,8 @@
-prom/prometheus:v3.11.3
-prom/alertmanager:v0.33.0
-prom/node-exporter:v1.11.1
-grafana/grafana:12.4.4
-prom/pushgateway:v1.11.3
-caddy:2.11.4-alpine
-
+grafana/loki:latest
+grafana/loki:latest
+grafana/alloy:latest
+minio/minio
+grafana/grafana:latest
+grafana/loki:latest
+nginx:latest
+mingrammer/flog
