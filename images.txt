@@ -1,4 +1,1 @@
- grafana/loki:3.6.10
- prom/prometheus:v3.11.3
- grafana/grafana:13.0.2
- grafana/alloy:v1.17.0
+python:3.11-slim
