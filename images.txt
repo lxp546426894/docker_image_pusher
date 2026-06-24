@@ -1,8 +1,4 @@
-grafana/loki:latest
-grafana/loki:latest
-grafana/alloy:latest
-minio/minio
-grafana/grafana:latest
-grafana/loki:latest
-nginx:latest
-mingrammer/flog
+ grafana/loki:3.6.10
+ prom/prometheus:v3.11.3
+ grafana/grafana:13.0.2
+ grafana/alloy:v1.17.0
