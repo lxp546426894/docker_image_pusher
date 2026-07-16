@@ -1,1 +1,1 @@
-python:3.11-slim
+ghcr.io/xpipe-io/xpipe-webtop:latest
