@@ -1,1 +1,1 @@
-ghcr.io/xpipe-io/xpipe-webtop:latest
+ghcr.io/sky22333/hubproxy
