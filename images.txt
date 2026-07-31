@@ -1,1 +1,1 @@
-jackge12345/dbcheck:latest
+easydba:latest
