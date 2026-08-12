@@ -1,1 +1,1 @@
-atabasus/databasus:v3.52.1
+databasus/databasus:v3.52.1
