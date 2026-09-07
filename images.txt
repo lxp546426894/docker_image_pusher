@@ -1,1 +1,1 @@
-ghcr.io/kite-org/kite:latest
+ghcr.io/zhh9126/backup-platform:latest
