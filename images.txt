@@ -1,1 +1,1 @@
-ghcr.io/zhh9126/backup-platform:latest
+ghcr.io/zhh9126/backup-platform:v1.4.12
