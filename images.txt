@@ -1,1 +1,1 @@
-ghcr.io/zhh9126/backup-platform:v1.4.12
+databasus/databasus:v3.60.0
