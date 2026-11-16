@@ -1,1 +1,1 @@
-db-backup-management:26.2.3
+codeyunze/db-backup-management:26.2.3
