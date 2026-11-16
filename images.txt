@@ -1,1 +1,1 @@
-ghcr.io/zhh9126/backup-platform:v2.4.0
+--platform=linux/arm64 bestzwei/libretv:2.23
