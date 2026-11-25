@@ -1,1 +1,1 @@
---platform=linux/arm64 bestzwei/libretv:2.23
+ubuntu:26.10
